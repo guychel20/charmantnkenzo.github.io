@@ -3,5 +3,3 @@ email: "cnkenzo@byupw.edu"
 description: "IT portfolio integrating technical stewardship with faith-centered leadership."
 baseurl: "/charmantnkenzo.github.io"
 url: "https://guychel20.github.io"
-plugins:
-  - jekyll-feed

@@ -45,4 +45,4 @@ Image Source: David A. Bednar, *Gather Together in One All Things in Christ*, En
 
 "Strands woven into a rope, illustrating how gospel truths and daily practices, when braided together with Christ at the center, create resilience and purpose."
 
-![Rope braided from multiple strands, symbol of integrated discipleship](/assets/images/rope-bednar.jpg)
+![Rope braided from multiple strands, symbol of integrated discipleship]({{ '/assets/images/rope-bednar.jpg' | relative_url }})
