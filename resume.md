@@ -1,57 +1,105 @@
 ﻿---
 title: Resume
 layout: default
+permalink: /resume/
 ---
 
-# Resume
+# Charmant Nkenzo
 
-## Charmant Nkenzo
-Email: cnkenzo@byupw.edu  
-Phone: +242 06 622 98 76  
-Location: Brazzaville, Republic of Congo  
-LinkedIn: https://www.linkedin.com/in/charmant-nkenzo/
+📍 Brazzaville, Republic of Congo  
+📧 cnkenzo@byupw.edu  
+📞 +242 06 622 98 76  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/charmant-nkenzo/)  
 
-## Professional Summary
-Technology Coordinator with experience coordinating learning platforms and support systems for educational programs. Strong background in systems administration, documentation, security best practices, and team training. Committed to ethical leadership, accessibility, and service-oriented technology solutions.
+---
 
-## Technical Skills and Tools
-- Operating Systems: Linux, Windows Server
-- Cloud and Platforms: AWS S3, Google Workspace Admin, Azure AD
-- Web: HTML/CSS, Java, Flutter, Dart, Laravel, Node.js, Vue.js, JavaScript, Git/GitHub, Jekyll
-- Automation and Scripting: Bash, PowerShell, Python, databases, TypeScript
-- Security: Least privilege, IAM policies, access logging, incident response basics
-- Tools: Jira, Trello, Confluence, Notion, Zoom, Teams, Docker, MS Office 365, broadcasting tools
-- Soft Skills: Technical writing, mentoring, cross-functional coordination, project documentation
+## 📄 Download Résumé
 
-## Certifications
-- Technical Support Engineer
-- IT Professional
-- Systems Administration
-- CompTIA Security+
-- AWS Cloud Practitioner
-- MOS
-- OPSWAT Critical Infrastructure Protection (ICIP)
-- Cisco CCNA
-- TestOut
-- Coursera
-- BYU-Pathway Certificate
+👉 [Download PDF Version]({{ '/resume.pdf' | relative_url }})
 
-## Professional Experience
-### Technology Coordinator - GEC BYU-Pathway (2024)
-- Coordinated platform availability for student services and learning systems.
-- Created runbooks and troubleshooting documentation, reducing mean time to resolution.
-- Designed and delivered training materials for staff and mentored junior team members.
-- Led small incident responses and coordinated post-incident reviews.
+---
+
+## 🧑‍💻 Professional Summary
+
+Technology Coordinator with experience supporting educational platforms, coordinating IT systems, and improving operational efficiency. Strong background in systems administration, documentation, security best practices, and team training. Committed to ethical leadership, accessibility, and service-oriented technology solutions.
+
+---
+
+## ⚙️ Technical Skills
+
+**Operating Systems**  
+Linux, Windows Server  
+
+**Cloud & Platforms**  
+AWS S3, Google Workspace Admin, Azure AD  
+
+**Web Development**  
+HTML, CSS, JavaScript, Java, Flutter, Dart, Laravel, Node.js, Vue.js, Git/GitHub, Jekyll  
+
+**Automation & Scripting**  
+Bash, PowerShell, Python, TypeScript, Databases  
+
+**Security**  
+Least privilege, IAM policies, access logging, incident response  
+
+**Tools**  
+Jira, Trello, Confluence, Notion, Zoom, Teams, Docker, Microsoft Office 365, Broadcasting tools  
+
+**Soft Skills**  
+Technical writing, mentoring, cross-functional collaboration, project documentation  
+
+---
+
+## 🎓 Certifications
+
+- CompTIA Security+  
+- AWS Cloud Practitioner  
+- Cisco CCNA  
+- OPSWAT Critical Infrastructure Protection (ICIP)  
+- Microsoft Office Specialist (MOS)  
+- TestOut  
+- Coursera Certifications  
+- BYU-Pathway Certificate  
+- Technical Support Engineer  
+- IT Professional  
+- Systems Administration  
+
+---
+
+## 💼 Professional Experience
+
+### Technology Coordinator — GEC BYU-Pathway (2024)
+
+- Coordinated platform availability for student services and learning systems  
+- Managed user accounts and access control  
+- Created runbooks and troubleshooting documentation, improving response time  
+- Designed and delivered technical training for staff  
+- Mentored junior team members  
+- Participated in incident response and system improvement processes  
+
+---
 
 ### IT Support / Systems (2021)
-- Provided user support, maintained backups, and assisted in data integrity checks.
-- Documented common support flows and improved onboarding materials.
 
-## Education
-Ensign College - Bachelor of Applied Science (Jun. 2026)
+- Provided technical support and troubleshooting  
+- Maintained backups and ensured data integrity  
+- Documented workflows and improved onboarding processes  
 
-Relevant coursework:
-- Systems Administration
-- Network Fundamentals
-- Cybersecurity Basics
-- Technical Writing
+---
+
+## 🎓 Education
+
+**Ensign College**  
+Bachelor of Applied Science — *Expected June 2026*
+
+**Relevant Coursework:**
+- Systems Administration  
+- Network Fundamentals  
+- Cybersecurity Basics  
+- Technical Writing  
+
+---
+
+## 🌱 Professional Focus
+
+My work focuses on combining technical expertise with ethical responsibility and service. I aim to build secure, efficient, and accessible systems while mentoring others and continuously improving processes.
