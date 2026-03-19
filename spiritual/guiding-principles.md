@@ -1,10 +1,12 @@
-﻿---
-title: Guiding Principles
-layout: default
----
-![Rope braided from multiple strands, symbol of integrated discipleship](/assets/images/rope-bednar.jpg)
+﻿--- 
+title: Guiding Principles 
+layout: default 
+permalink: /spiritual/guiding-principles/ 
+--- 
 
-# Guiding Principles
+# Guiding Principles 
+
+![Rope braided from multiple strands, symbol of integrated discipleship]({{ '/assets/images/rope-bednar.jpg' | relative_url }})
 
 ## 1. Gather Together in One All Things in Christ
 

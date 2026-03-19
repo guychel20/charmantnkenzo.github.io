@@ -1,6 +1,7 @@
 ﻿---
-title: Team Training Development
+title: Systems Optimization Initiative
 layout: default
+permalink: /projects/systems-optimization/
 ---
 
 # Team Training Development

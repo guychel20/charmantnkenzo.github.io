@@ -1,8 +1,7 @@
 ﻿title: "Charmant Nkenzo"
 email: "cnkenzo@byupw.edu"
 description: "IT portfolio integrating technical stewardship with faith-centered leadership."
-baseurl: ""
-url: "https://charmantnkenzo.github.io"
-theme: minima
+baseurl: "/charmantnkenzo.github.io"
+url: "https://guychel20.github.io"
 plugins:
   - jekyll-feed

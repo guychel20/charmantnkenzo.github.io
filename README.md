@@ -1,4 +1,10 @@
-﻿# Charmant Nkenzo - Portfolio
+﻿---
+title: Systems Optimization Initiative
+layout: default
+permalink: /projects/systems-optimization/
+---
+
+# Charmant Nkenzo - Portfolio
 
 Technology Coordinator | Systems | Security | Faith-centered technologist
 

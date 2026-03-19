@@ -1,8 +1,10 @@
 ﻿---
 title: About
 layout: default
+permalink: /about/
 ---
-<img src="/assets/images/charmant-headshot.jpg" alt="Charmant Nkenzo headshot" style="width:180px;border-radius:10px;" />
+
+<img class="profile-photo" src="{{ '/assets/images/charmant-headshot.jpg' | relative_url }}" alt="Charmant Nkenzo headshot">
 
 # About Me
 

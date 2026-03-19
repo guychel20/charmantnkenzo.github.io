@@ -1,6 +1,7 @@
 ﻿---
 title: Systems Optimization Initiative
 layout: default
+permalink: /projects/systems-optimization/
 ---
 
 # Systems Optimization Initiative

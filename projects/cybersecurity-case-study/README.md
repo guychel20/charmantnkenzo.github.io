@@ -1,6 +1,7 @@
 ﻿---
-title: Cybersecurity Case Study
+title: Systems Optimization Initiative
 layout: default
+permalink: /projects/systems-optimization/
 ---
 
 # Cybersecurity Case Study - Cloud Storage Misconfiguration
