@@ -2,6 +2,7 @@
 title: About
 layout: default
 ---
+<img src="/assets/images/charmant-headshot.jpg" alt="Charmant Nkenzo headshot" style="width:180px;border-radius:10px;" />
 
 # About Me
 

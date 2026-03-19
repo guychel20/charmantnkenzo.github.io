@@ -2,6 +2,7 @@
 title: Guiding Principles
 layout: default
 ---
+![Rope braided from multiple strands, symbol of integrated discipleship](/assets/images/rope-bednar.jpg)
 
 # Guiding Principles
 
