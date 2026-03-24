@@ -1,50 +1,34 @@
 ﻿---
-title: Home
+title: Spiritual Portfolio
 layout: default
-permalink: /
+permalink: /spiritual/
 ---
 
 <section class="hero">
   <div class="hero-copy">
-    <span class="badge">IT 497 Portfolio</span>
-    <h1>Charmant Nkenzo</h1>
+    <span class="badge">Spiritual Portfolio</span>
+    <h1>Guiding Principles and Reflections</h1>
     <p class="lead">
-      Technology Coordinator | IT | Systems | Security
+      This section brings together my spiritual growth, reflections, and the teachings that guide my professional life.
     </p>
-
-    <p>
-      Welcome to my portfolio. This site brings together technical projects, spiritual reflections, and ethical analysis that show how faith guides my professional decisions.
-    </p>
-
-    <div class="button-row">
-      <a class="btn btn-primary" href="{{ '/resume.pdf' | relative_url }}">📄 Download Résumé</a>
-      <a class="btn btn-secondary" href="{{ '/about/' | relative_url }}">About Me</a>
-    </div>
   </div>
-
-  <img class="profile-photo" src="{{ '/assets/images/charmant-headshot.jpg' | relative_url }}" alt="Charmant Nkenzo headshot">
 </section>
 
-<h2 class="section-title">Explore the Portfolio</h2>
+<h2 class="section-title">Explore Spiritual Content</h2>
 
 <div class="card-grid">
   <div class="card">
-    <h3><a href="{{ '/about/' | relative_url }}">About</a></h3>
-    <p>Background, values, and professional direction.</p>
+    <h3><a href="{{ '/spiritual/guiding-principles/' | relative_url }}">Guiding Principles</a></h3>
+    <p>Three guiding principles with supporting materials.</p>
   </div>
 
   <div class="card">
-    <h3><a href="{{ '/spiritual/' | relative_url }}">Spiritual Portfolio</a></h3>
-    <p>Guiding principles, scripture-based reflections, and growth notes.</p>
+    <h3><a href="{{ '/spiritual/reflections/' | relative_url }}">Reflections</a></h3>
+    <p>Temple reflection and spiritual insights.</p>
   </div>
 
   <div class="card">
-    <h3><a href="{{ '/projects/' | relative_url }}">Projects</a></h3>
-    <p>Technical work with integrated spiritual reflection.</p>
-  </div>
-
-  <div class="card">
-    <h3><a href="{{ '/resume/' | relative_url }}">Resume</a></h3>
-    <p>Professional summary, skills, experience, and certifications.</p>
+    <h3><a href="{{ '/spiritual/expansion/' | relative_url }}">Expansion</a></h3>
+    <p>Week 4 expansion, agency, and deeper integration.</p>
   </div>
 </div>

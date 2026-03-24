@@ -1,6 +1,7 @@
 ﻿---
 title: Reflections
 layout: default
+permalink: /spiritual/reflections/
 ---
 
 # Reflections
