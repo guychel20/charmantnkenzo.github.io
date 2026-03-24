@@ -19,6 +19,11 @@ This video presents my personal insights on agency, spiritual growth, and how th
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
+<p>
+  <a href="https://youtu.be/9V8IKD2ZC_g" target="_blank" rel="noopener noreferrer">
+    Watch my video reflection on YouTube
+  </a>
+</p>
 
 ---
 
