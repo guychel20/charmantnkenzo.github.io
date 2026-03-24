@@ -11,8 +11,7 @@ permalink: /
     <span class="badge">IT 497 Portfolio</span>
 
     <h1>
-      Charmant<br>
-      <span style="color:#1f4b99;">Nkenzo</span>
+      Charmant Nkenzo
     </h1>
 
     <p class="lead">

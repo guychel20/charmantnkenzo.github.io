@@ -113,6 +113,7 @@ a:hover {
 .hero-copy p {
   text-align: justify;
   max-width: 520px;
+  margin-top: 6px;
 }
 
 .badge {
@@ -141,6 +142,7 @@ h1 {
   max-width: 520px;
   font-size: 1.05rem;
   margin-top: 0;
+  margin-bottom: 14px; /* creates space before welcome text */
 }
 
 .hero p {
