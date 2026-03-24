@@ -6,48 +6,61 @@ permalink: /
 
 <section class="hero">
 
-  <span class="badge">IT 497 Portfolio</span>
+  <div class="hero-copy">
 
-  <h1>Charmant Nkenzo</h1>
+    <span class="badge">IT 497 Portfolio</span>
 
-  <p class="lead">
-    Technology Coordinator | IT | Systems | Security
-  </p>
+    <h1>
+      Charmant<br>
+      <span style="color:#1f4b99;">Nkenzo</span>
+    </h1>
 
-  <img class="profile-photo" src="{{ '/assets/images/charmant-headshot.jpg' | relative_url }}" alt="Charmant Nkenzo headshot">
+    <p class="lead">
+      Technology Coordinator | IT | Systems | Security
+    </p>
 
-  <p>
-    Welcome to my portfolio. This site brings together technical projects, spiritual reflections, and ethical analysis that show how faith guides my professional decisions.
-  </p>
+    <p>
+      Welcome to my portfolio. This site brings together technical projects, spiritual reflections, and ethical analysis that show how faith guides my professional decisions.
+    </p>
 
-  <p>
-    <a href="{{ '/resume.pdf' | relative_url }}" style="display:inline-block;padding:10px 18px;background:#1f4b99;color:#fff;border-radius:8px;text-decoration:none;font-weight:600;">
-      📄 Download Résumé
-    </a>
-  </p>
+    <div class="button-row">
+      <a class="btn btn-primary" href="{{ '/resume.pdf' | relative_url }}">
+        📄 Download Résumé
+      </a>
 
-  <div class="card-grid">
-
-    <div class="card">
-      <h3><a href="{{ '/about/' | relative_url }}">About</a></h3>
-      <p>Learn more about my background, values, and professional journey.</p>
-    </div>
-
-    <div class="card">
-      <h3><a href="{{ '/spiritual/' | relative_url }}">Spiritual Portfolio</a></h3>
-      <p>Guiding principles, scriptures, and reflections shaping my life.</p>
-    </div>
-
-    <div class="card">
-      <h3><a href="{{ '/projects/' | relative_url }}">Projects</a></h3>
-      <p>Technical work combined with ethical and spiritual insights.</p>
-    </div>
-
-    <div class="card">
-      <h3><a href="{{ '/resume/' | relative_url }}">Resume</a></h3>
-      <p>View my professional experience, skills, and certifications.</p>
+      <a class="btn btn-secondary" href="{{ '/about/' | relative_url }}">
+        About Me
+      </a>
     </div>
 
   </div>
 
+  <img class="profile-photo" src="{{ '/assets/images/charmant-headshot.jpg' | relative_url }}" alt="Charmant Nkenzo headshot">
+
 </section>
+
+<h2 class="section-title">Explore the Portfolio</h2>
+
+<div class="card-grid">
+
+  <div class="card">
+    <h3><a href="{{ '/about/' | relative_url }}">About</a></h3>
+    <p>Learn more about my background, values, and professional journey.</p>
+  </div>
+
+  <div class="card">
+    <h3><a href="{{ '/spiritual/' | relative_url }}">Spiritual Portfolio</a></h3>
+    <p>Guiding principles, reflections, and spiritual development.</p>
+  </div>
+
+  <div class="card">
+    <h3><a href="{{ '/projects/' | relative_url }}">Projects</a></h3>
+    <p>Technical work integrated with ethical and spiritual insights.</p>
+  </div>
+
+  <div class="card">
+    <h3><a href="{{ '/resume/' | relative_url }}">Resume</a></h3>
+    <p>Professional experience, skills, and certifications.</p>
+  </div>
+
+</div>
