@@ -101,9 +101,9 @@ a:hover {
 .hero {
   display: grid;
   grid-template-columns: 1.2fr 0.8fr;
-  gap: 28px;
+  gap: 24px;
   align-items: center;
-  padding: 34px;
+  padding: 28px;
   background: linear-gradient(180deg, #ffffff, #fbfcff);
   border: 1px solid var(--border);
   border-radius: var(--radius-xl);
@@ -130,9 +130,9 @@ a:hover {
 
 h1 {
   margin: 0;
-  font-size: clamp(2.2rem, 5vw, 4rem);
-  line-height: 1.05;
-  color: #0f172a;
+  font-size: clamp(2rem, 3.5vw, 3rem); /* smaller and responsive */
+  line-height: 1.1;
+  color: #111827;
 }
 
 .lead {
