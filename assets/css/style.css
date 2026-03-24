@@ -110,6 +110,25 @@ a:hover {
   box-shadow: var(--shadow);
 }
 
+/* First paragraph (Technology Coordinator...) */
+.hero-copy .lead {
+  margin: 0 0 14px 0 !important;
+  text-align: justify;
+  max-width: 520px;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #4b5563;
+}
+
+/* Second paragraph (Welcome text) */
+.hero-copy > p:not(.lead) {
+  margin: 0 0 8px 0 !important;
+  text-align: justify;
+  max-width: 520px;
+  line-height: 1.6;
+  color: #4b5563;
+}
+
 .hero-copy p {
   text-align: justify;
   margin-top: 12px;     /* space from above text */
@@ -148,9 +167,6 @@ h1 {
   margin-bottom: 14px; /* creates space before welcome text */
 }
 
-.hero p {
-  margin: 0;
-}
 
 .profile-photo {
   width: min(320px, 100%);
