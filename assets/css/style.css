@@ -110,9 +110,9 @@ a:hover {
   box-shadow: var(--shadow);
 }
 
-.hero-copy {
-  display: grid;
-  gap: 18px;
+.hero-copy p {
+  text-align: justify;
+  max-width: 520px;
 }
 
 .badge {
@@ -133,13 +133,14 @@ h1 {
   font-size: clamp(2rem, 3.5vw, 3rem); /* smaller and responsive */
   line-height: 1.1;
   color: #111827;
+  margin-bottom: 6px;
 }
 
 .lead {
-  margin: 0;
-  font-size: 1.12rem;
-  color: var(--muted);
-  max-width: 60ch;
+  text-align: justify;
+  max-width: 520px;
+  font-size: 1.05rem;
+  margin-top: 0;
 }
 
 .hero p {
