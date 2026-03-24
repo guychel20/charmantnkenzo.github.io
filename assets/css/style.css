@@ -112,8 +112,11 @@ a:hover {
 
 .hero-copy p {
   text-align: justify;
-  max-width: 520px;
-  margin-top: 6px;
+  margin-top: 12px;     /* space from above text */
+  margin-bottom: 8px;   /* space before buttons */
+  max-width: 520px;     /* prevents long stretched lines */
+  line-height: 1.6;     /* improves readability */
+  color: #4b5563;     /* softer than black */
 }
 
 .badge {

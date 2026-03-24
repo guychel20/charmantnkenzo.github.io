@@ -19,7 +19,9 @@ permalink: /
     </p>
 
     <p>
-      Welcome to my portfolio. This site brings together technical projects, spiritual reflections, and ethical analysis that show how faith guides my professional decisions.
+       Welcome to my portfolio. This site brings together technical projects, 
+       spiritual reflections, and ethical analysis to demonstrate how faith 
+       guides my professional decisions and development.
     </p>
 
     <div class="button-row">
