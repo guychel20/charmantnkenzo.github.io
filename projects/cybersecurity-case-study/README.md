@@ -26,8 +26,21 @@ A departmental cloud backup was unintentionally configured with public access by
 ## Technical Analysis
 The incident exposes the importance of change control, least privilege, and monitoring. Misconfigured access permissions are preventable when safeguards are applied before changes reach production.
 
-## Ethical Reflection
-This case demonstrates the necessity of combining technical competence with ethical responsibility. The principle in Doctrine and Covenants 58:26-28 highlights proactive engagement; security safeguards should be implemented before incidents occur. Doctrine and Covenants 58:42-43 underscores the importance of transparency and correction when mistakes are made. Elder Bednar's teaching about gathering interconnected strands into one unified whole applies directly: doctrine (integrity), principle (stewardship), and practice (technical safeguards) must function together. Technical expertise without moral accountability is incomplete. True professional integrity requires both capability and character.
+## Ethical Principles
+
+The key ethical principles in this situation include honesty, responsibility, transparency, fairness, and accountability. These principles guide how sensitive data should be handled and how organizations respond to mistakes.
+
+## Alternative Ethical Approach
+
+A better response to the cloud storage misconfiguration would have included immediate formal documentation of the incident, preservation of logs, and prompt communication with all relevant stakeholders. Instead of informal correction, leadership should have initiated a structured response process including a root-cause analysis and corrective training for the contractor involved.
+
+Additionally, implementing a strict change-control process would ensure that any future configuration changes are reviewed and approved before deployment. Automated monitoring tools and periodic audits should also be introduced to detect misconfigurations early.
+
+## Why This Approach Is Better
+
+This alternative approach strengthens data protection, reduces the likelihood of repeated errors, and builds trust within the organization. It aligns with professional IT standards and demonstrates accountability rather than avoidance.
+
+By responding transparently and proactively, the organization not only protects affected individuals but also creates a culture of learning and continuous improvement. This reflects both ethical responsibility and strong leadership.
 
 ## Lessons Learned
 - Use least privilege by default

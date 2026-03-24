@@ -17,5 +17,8 @@ I audited recurring server issues and implemented standardized runbooks, automat
 ## Outcome
 Reduced incident response time by about 40 percent.
 
-## Reflection
-This project demonstrates stewardship. I viewed system health as a responsibility to protect users and support continuity.
+## Spiritual Reflection
+
+This project reflects the principle of stewardship. Maintaining system stability is not only a technical responsibility but also a way of serving others. By improving system performance and reducing downtime, I help ensure that users can rely on the technology they need.
+
+This aligns with my belief that professional work should contribute positively to others. Technical excellence becomes meaningful when it is used to support people and improve their experiences.
