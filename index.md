@@ -14,11 +14,11 @@ permalink: /
       Charmant Nkenzo
     </h1>
 
-  <p>
+  <p class="lead" style="margin-bottom:16px;">
   Technology Coordinator | IT | Systems | Security
   </p>
 
-  <p>
+  <p style="margin-top:0;">
   Welcome to my portfolio. This site brings together technical projects, 
   spiritual reflections, and ethical analysis to demonstrate how faith 
   guides my professional decisions and development.

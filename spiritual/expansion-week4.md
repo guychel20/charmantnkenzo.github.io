@@ -5,6 +5,19 @@ permalink: /spiritual/expansion/
 ---
 
 # Expansion and Deepening (Week 4)
+<h2>🎥 Video Reflection</h2>
+
+<p>
+This video presents my personal insights on agency, spiritual growth, and professional development.
+</p>
+
+<iframe width="100%" height="400"
+  src="https://youtu.be/SQZs9lg4C-s?si=DTxmj45rt6Y9LfjZ"
+  title="Video Reflection"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 ## Agency and Personal Development
 
