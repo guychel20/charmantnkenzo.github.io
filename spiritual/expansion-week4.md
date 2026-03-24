@@ -9,53 +9,74 @@ permalink: /spiritual/expansion/
 <h2>🎥 Video Reflection</h2>
 
 <p>
-This video presents my personal insights on agency, spiritual growth, and professional development.
+This video presents my personal insights on agency, spiritual growth, and how these principles influence my professional development in Information Technology.
 </p>
 
 <iframe width="100%" height="400"
-  src="https://youtu.be/ONmpIk-LwOQ?si=iwbkkRHs20pyzde3"
-  title="A7S - Eyes On Me (Official Music Video)"
+  src="https://youtu.be/9V8IKD2ZC_g"
+  title="Video Reflection"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
 
+---
+
 ## Agency and Personal Development
 
-Doctrine and Covenants 58:26–28 teaches that individuals must be “anxiously engaged in a good cause” and act through their own agency. This principle has shaped my understanding of both spiritual and professional growth. I have learned that progress does not come from waiting for direction but from taking initiative, solving problems, and making meaningful contributions.
+Doctrine and Covenants 58:26–28 teaches that individuals must be “anxiously engaged in a good cause” and act according to their own agency. This principle has significantly shaped my understanding of both spiritual and professional development.
 
-In my IT work, this translates into proactively identifying system issues, improving documentation, and supporting others without needing constant instruction. Spiritually, it reminds me that growth requires consistent effort, trust in God, and willingness to act even when outcomes are uncertain.
+Through this reflection, I have come to recognize that growth does not come from waiting for direction but from actively choosing to contribute, improve, and take responsibility. In my IT work, this means identifying issues proactively, improving systems, and supporting others without needing constant instruction.
+
+Spiritually, this principle reminds me that development requires effort, faith, and intentional action. Agency is not only the ability to choose but the responsibility to act in ways that bring positive outcomes.
 
 ---
 
 ## Learning Through Adversity
 
-Elder Joseph B. Wirthlin’s message, *Come What May, and Love It*, helped me understand that challenges are not obstacles but opportunities for growth. In technology environments, failures, bugs, and system breakdowns are inevitable. What matters is how we respond.
+Elder Joseph B. Wirthlin’s message, *Come What May, and Love It*, helped me understand that challenges are an essential part of growth. In both life and technology, difficulties are inevitable.
 
-Instead of frustration, I have learned to approach challenges with patience and resilience. Difficult moments in IT systems—such as outages or configuration errors—can become learning experiences that strengthen both technical skills and character.
+In IT environments, failures such as system errors or outages are common. However, I have learned that these moments provide opportunities to develop resilience, patience, and problem-solving skills.
+
+Rather than reacting with frustration, I strive to approach challenges with a growth mindset. This perspective strengthens both my technical abilities and my personal character.
 
 ---
 
 ## Faith and Courage in Decision-Making
 
-President Dieter F. Uchtdorf’s teaching, *Be Not Afraid, Only Believe*, reinforces the importance of faith in uncertain situations. In both spiritual and professional life, decisions are often made without complete information.
+President Dieter F. Uchtdorf’s teaching, *Be Not Afraid, Only Believe*, reinforces the importance of faith when facing uncertainty. In both spiritual and professional settings, decisions often must be made without complete information.
 
-In cybersecurity and systems administration, leaders must act confidently while managing risk. This principle reminds me to trust in preparation, rely on correct principles, and move forward with courage instead of fear.
+In cybersecurity and systems administration, leaders must act responsibly while managing risk. This principle has taught me to trust my preparation, rely on correct principles, and move forward with confidence rather than fear.
+
+Faith, in this sense, becomes a guiding force that supports sound decision-making and responsible leadership.
 
 ---
 
 ## Problem Solving and Collaboration
 
-The principles of problem solving and collaboration highlight the importance of structured thinking and teamwork. Effective problem solving follows clear stages: defining the problem, generating solutions, evaluating options, choosing a solution, and implementing a plan.
+The principles of problem solving and collaboration emphasize the importance of structure and teamwork. Effective problem solving follows key stages: defining the problem, generating solutions, evaluating options, selecting the best solution, and implementing a plan.
 
-I have learned that collaboration improves outcomes when team members stay aligned and communicate effectively. Applying principles like “seek first to understand” and building synergy helps reduce conflict and improves efficiency.
+I have learned that collaboration becomes effective when individuals communicate clearly, listen actively, and work toward a shared goal. Applying principles such as “seek first to understand” helps reduce conflict and build stronger teams.
 
-As a future IT leader, I want to create environments where people work together, share ideas, and solve problems collectively rather than individually.
+As an IT professional, I aim to create environments where collaboration leads to better solutions, increased efficiency, and positive outcomes for everyone involved.
 
 ---
 
-## Professional and Spiritual Integration
+## Professional and Spiritual Alignment
 
-These teachings demonstrate that my professional development is closely connected to my spiritual beliefs. Agency encourages initiative, adversity builds resilience, faith strengthens decision-making, and collaboration improves outcomes.
+This reflection has helped me clearly see how my professional competencies align with my spiritual beliefs.
 
-Together, these principles guide me to become not only a skilled IT professional but also a responsible and ethical leader.
+- Problem solving reflects agency and initiative  
+- Cybersecurity reflects responsibility and integrity  
+- Documentation reflects stewardship and accountability  
+- Collaboration reflects service, humility, and unity  
+
+These connections demonstrate that my professional work is not separate from my spiritual identity. Instead, my career becomes a way to live out my beliefs through action, service, and ethical decision-making.
+
+---
+
+## Conclusion
+
+This week has deepened my understanding that true growth comes from acting with purpose, learning from challenges, and aligning my actions with my beliefs.
+
+By applying these principles, I strive to become not only a competent IT professional but also a responsible, ethical, and service-oriented leader.
