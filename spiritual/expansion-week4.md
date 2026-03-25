@@ -12,13 +12,14 @@ permalink: /spiritual/expansion/
 This video presents my personal insights on agency, spiritual growth, and how these principles influence my professional development in Information Technology.
 </p>
 
+<h2>🎥 Video Reflection</h2>
+
 <iframe width="100%" height="400"
   src="https://youtu.be/9V8IKD2ZC_g"
-  title="Video Reflection"
   frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
+
 <p>
   <a href="https://youtu.be/9V8IKD2ZC_g" target="_blank" rel="noopener noreferrer">
     Watch my video reflection on YouTube
