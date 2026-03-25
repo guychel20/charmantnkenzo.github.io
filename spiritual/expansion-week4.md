@@ -17,13 +17,13 @@ This video presents my personal insights on agency, spiritual growth, and how th
   <a href="https://youtu.be/9V8IKD2ZC_g" target="_blank">
     <img src="{{ '/assets/images/sourceimg.jpg' | relative_url }}" 
          alt="Watch Video Reflection"
-         style="max-width:100%; border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,0.2);">
+         style="width:50%; max-width:400px; border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,0.2);">
   </a>
 </p>
 
 <p>
   <a href="https://youtu.be/9V8IKD2ZC_g" target="_blank" rel="noopener noreferrer">
-    Watch my video reflection on YouTube
+    Watch my reflection video on YouTube — CLICK HERE (or on the image) 
   </a>
 </p>
 
