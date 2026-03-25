@@ -4,12 +4,11 @@ layout: default
 permalink: /spiritual/expansion/
 ---
 
-# Expansion and Deepening (Week 4)
-
+# Expansion and Deepening 
 <h2>🎥 Video Reflection</h2>
 
 <p>
-This video presents my personal insights on agency, spiritual growth, and how these principles influence my professional development in Information Technology.
+The following video below, presents my personal insights on agency, spiritual growth, and how these principles influence my professional development in Information Technology.
 </p>
 
 
