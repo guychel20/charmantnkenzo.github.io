@@ -36,4 +36,9 @@ permalink: /spiritual/
     <h3><a href="{{ '/spiritual/week5-integration-reflection-design/' | relative_url }}">Integration, Reflection, and Design Enhancement</a></h3>
     <p>Week 5 reflections, usability testing, ethical dilemma analysis, and spiritual-professional integration.</p>
   </div>
+
+  <div class="card">
+  <h3><a href="{{ '/spiritual/action-plan/' | relative_url }}">Action Plan for Ongoing Spiritual and Professional Development</a></h3>
+  <p>A detailed plan outlining future spiritual goals, professional development goals, accountability methods, and measures of progress.</p>
+</div>
 </div>
