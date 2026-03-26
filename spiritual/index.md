@@ -40,5 +40,10 @@ permalink: /spiritual/
   <div class="card">
   <h3><a href="{{ '/spiritual/action-plan/' | relative_url }}">Action Plan for Ongoing Spiritual and Professional Development</a></h3>
   <p>A detailed plan outlining future spiritual goals, professional development goals, accountability methods, and measures of progress.</p>
+  </div>
+
+  <div class="card">
+  <h3><a href="{{ '/spiritual/final-spiritual-portfolio/' | relative_url }}">Final Spiritual Progression Portfolio</a></h3>
+  <p>A complete final reflection on my spiritual journey, guiding principles, growth, challenges, and future commitment as a disciple of Jesus Christ   </p>
 </div>
 </div>
