@@ -24,7 +24,7 @@ This week’s work helped me bring together the spiritual and professional parts
 
 ---
 
-# Task 1: Comprehensive Review and Reflection
+# Comprehensive Review and Reflection
 
 ## Integrating Christlike Attributes into My Life and Portfolio
 
@@ -61,7 +61,7 @@ This review helped me understand that a good portfolio is not only informative b
 
 ---
 
-# Task 2: Usability Testing Report and Design Enhancements
+# Usability Testing Report and Design Enhancements
 
 ## Usability Testing Process
 
@@ -120,7 +120,7 @@ If I face a similar situation in my future work, I would respond by acting quick
 
 ---
 
-# Task 3: Spiritual–Professional Integration Reflection
+# Spiritual–Professional Integration Reflection
 
 > ## Reflective Piece: Gathering My Faith and Future in Christ
 
