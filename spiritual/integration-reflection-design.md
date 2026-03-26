@@ -4,7 +4,7 @@ title: "Integration, Reflection, and Design Enhancement"
 permalink: /spiritual/week5-integration-reflection-design/
 ---
 
-# Week 5: Integration, Reflection, and Design Enhancement
+# Integration, Reflection, and Design Enhancement
 
 <p style="text-align:center;">
   <img src="{{ '/assets/images/rope-bednar.jpg' | relative_url }}"
