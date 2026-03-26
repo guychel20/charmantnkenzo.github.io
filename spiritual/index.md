@@ -31,4 +31,9 @@ permalink: /spiritual/
     <h3><a href="{{ '/spiritual/expansion/' | relative_url }}">Expansion</a></h3>
     <p>Week 4 expansion, agency, and deeper integration.</p>
   </div>
+
+  <div class="card">
+    <h3><a href="{{ '/spiritual/week5-integration-reflection-design/' | relative_url }}">Integration, Reflection, and Design Enhancement</a></h3>
+    <p>Week 5 reflections, usability testing, ethical dilemma analysis, and spiritual-professional integration.</p>
+  </div>
 </div>
