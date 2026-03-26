@@ -28,7 +28,7 @@ permalink: /spiritual/
   </div>
 
   <div class="card">
-    <h3><a href="{{ '/spiritual/expansion/' | relative_url }}">Expansion</a></h3>
+    <h3><a href="{{ '/spiritual/expansion/' | relative_url }}">Expansion, Deepening, and Project Integration</a></h3>
     <p>Week 4 expansion, agency, and deeper integration.</p>
   </div>
 

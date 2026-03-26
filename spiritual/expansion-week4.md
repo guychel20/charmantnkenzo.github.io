@@ -86,3 +86,19 @@ These connections demonstrate that my professional work is not separate from my 
 This week has deepened my understanding that true growth comes from acting with purpose, learning from challenges, and aligning my actions with my beliefs.
 
 By applying these principles, I strive to become not only a competent IT professional but also a responsible, ethical, and service-oriented leader.
+
+---
+
+# References
+
+Bednar, D. A. (2018, October). *Gather together in one all things in Christ*. The Church of Jesus Christ of Latter-day Saints.
+
+Wirthlin, J. B. (2008, October). *Come what may, and love it*. The Church of Jesus Christ of Latter-day Saints.
+
+Uchtdorf, D. F. (2015, October). *Be not afraid, only believe*. The Church of Jesus Christ of Latter-day Saints.
+
+The Church of Jesus Christ of Latter-day Saints. (n.d.). *Doctrine and Covenants 50:10*.
+
+The Church of Jesus Christ of Latter-day Saints. (n.d.). *Doctrine and Covenants 58:26–28*.
+
+BYU-Idaho. (n.d.). *Problem solving and collaboration*. EdTech Books. https://books.byui.edu/leadership_toolkit/problem_solving
