@@ -7,7 +7,7 @@ permalink: /spiritual/week5-integration-reflection-design/
 # Week 5: Integration, Reflection, and Design Enhancement
 
 <p style="text-align:center;">
-  <img src="{{ '/assets/images/rope5-bednar.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/rope-bednar.jpg' | relative_url }}"
        alt="Rope 5 illustration inspired by David A. Bednar's message on gathering all things in Christ"
        style="max-width:70%; height:auto; border-radius:12px; box-shadow:0 10px 24px rgba(0,0,0,0.18);">
 </p>
@@ -110,15 +110,15 @@ This process taught me that good design is not just about appearance. It is abou
 
 # Ethical Dilemma Reflection
 
-In Week 2, I reflected on the ethical dilemma of **balancing the use of digital tools and data with the responsibility to respect privacy, fairness, and human dignity**. This dilemma matters in technology-related work because digital systems can be helpful and efficient, but they can also be used carelessly or in ways that ignore the needs and rights of individuals.
+# Ethical Dilemma Reflection
 
-My view is that ethical decisions should not be based only on whether something is technically possible. They should also be based on whether the action is honest, respectful, safe, and beneficial to the people affected by it. In many professional settings, it may be tempting to prioritize speed, convenience, or business results over ethical care. However, I believe lasting success requires integrity. A solution that violates trust is not truly a good solution.
+> In Week 2, I reflected on the ethical dilemma of **cloud storage misconfiguration and the exposure of student data through unintended public access permissions**. This dilemma matters in technology-related work because digital systems are often entrusted with sensitive personal information, and even a single configuration mistake can place people at risk. In this case, a university department stored student records in a cloud-based backup system, and during troubleshooting, a contractor unintentionally enabled public access. A security researcher later discovered the exposure and reported it, leading to an incident response involving technical, legal, compliance, and administrative stakeholders.
 
-If I face a similar situation in my future work, I would handle it by first identifying who may be affected and what risks are involved. I would then compare possible actions against ethical principles such as honesty, accountability, transparency, privacy, and fairness. I would seek counsel when needed, document my reasoning, and choose the option that protects people rather than merely protecting efficiency or image.
+My view is that this situation shows how ethical responsibility must accompany technical work at every stage. It is not enough to know how to configure systems; professionals must also understand the human impact of their decisions. Student records are not just data points. They represent real people whose privacy and trust deserve protection. For that reason, ethical decision-making in technology should not be based only on whether a task can be completed quickly or conveniently, but on whether it is handled with care, accountability, and respect for those affected.
 
-This exercise helped me better understand that ethical challenges in my field are rarely simple. They often involve competing priorities, limited information, and real consequences for other people. Because of that, ethical reflection must become a habit rather than a one-time task. I want to be the kind of professional who is trusted not only for technical ability, but also for moral judgment.
+I also believe this dilemma highlights the importance of proactive stewardship. Doctrine and Covenants 58:26–28 teaches the value of acting wisely and doing good without waiting to be compelled in all things. Applied to this case, that principle suggests that strong safeguards, careful review processes, and responsible monitoring should already be in place before a mistake occurs. Ethical professionalism requires preparation, not just reaction. Once the exposure was discovered, the response also needed honesty and correction. Doctrine and Covenants 58:42–43 reinforces the principle that when mistakes are made, they should be acknowledged and addressed sincerely. Removing public access, preserving logs, involving the appropriate offices, informing affected individuals, and implementing stronger safeguards were ethically appropriate steps because they reflected accountability rather than avoidance.
 
-> **Note:** If your actual Week 2 dilemma was different, replace the bolded phrase in the first sentence and adjust the paragraph details to match it.
+If I face a similar situation in my future work, I would respond by acting quickly to reduce harm, documenting what happened, notifying the appropriate security and compliance personnel, and ensuring that affected individuals are treated with honesty and respect. I would also review what controls failed and what improvements are necessary to prevent recurrence. Elder Bednar’s teaching about gathering connected strands into one unified whole applies clearly here: doctrine, principle, and practice must work together. Integrity, stewardship, and technical safeguards cannot be separated. This exercise helped me understand that ethical challenges in technology are not only about systems and policies, but also about trust, responsibility, and character. I want to become a professional who combines technical competence with moral accountability.
 
 ---
 
