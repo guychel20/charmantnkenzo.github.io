@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Week 5: Integration, Reflection, and Design Enhancement"
+title: "Integration, Reflection, and Design Enhancement"
 permalink: /spiritual/week5-integration-reflection-design/
 ---
 
@@ -110,9 +110,7 @@ This process taught me that good design is not just about appearance. It is abou
 
 # Ethical Dilemma Reflection
 
-# Ethical Dilemma Reflection
-
-> In Week 2, I reflected on the ethical dilemma of **cloud storage misconfiguration and the exposure of student data through unintended public access permissions**. This dilemma matters in technology-related work because digital systems are often entrusted with sensitive personal information, and even a single configuration mistake can place people at risk. In this case, a university department stored student records in a cloud-based backup system, and during troubleshooting, a contractor unintentionally enabled public access. A security researcher later discovered the exposure and reported it, leading to an incident response involving technical, legal, compliance, and administrative stakeholders.
+In Week 2, I reflected on the ethical dilemma of **cloud storage misconfiguration and the exposure of student data through unintended public access permissions**. This dilemma matters in technology-related work because digital systems are often entrusted with sensitive personal information, and even a single configuration mistake can place people at risk. In this case, a university department stored student records in a cloud-based backup system, and during troubleshooting, a contractor unintentionally enabled public access. A security researcher later discovered the exposure and reported it, leading to an incident response involving technical, legal, compliance, and administrative stakeholders.
 
 My view is that this situation shows how ethical responsibility must accompany technical work at every stage. It is not enough to know how to configure systems; professionals must also understand the human impact of their decisions. Student records are not just data points. They represent real people whose privacy and trust deserve protection. For that reason, ethical decision-making in technology should not be based only on whether a task can be completed quickly or conveniently, but on whether it is handled with care, accountability, and respect for those affected.
 
@@ -124,7 +122,7 @@ If I face a similar situation in my future work, I would respond by acting quick
 
 # Task 3: Spiritual–Professional Integration Reflection
 
-## Reflective Piece: Gathering My Faith and Future in Christ
+> ## Reflective Piece: Gathering My Faith and Future in Christ
 
 This week’s reflection helped me see more clearly that my faith is not separate from my professional life. Instead, it gives my work meaning, direction, and accountability. My beliefs influence not only what I hope to achieve, but also how I want to achieve it. I do not want success that is disconnected from discipleship. I want a life in which my education, work, service, and character are gathered together in Jesus Christ.
 
